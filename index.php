@@ -69,7 +69,6 @@
     <form method="post" id="pesquisa">
         <label for="search">Pesquisar:</label>
         <input type="text" id="search" name="search" placeholder="Pesquisar">
-        <button type="submit">Pesquisar</button>
     </form>
     <h2>Lista de Usuários</h2>
     <table>
