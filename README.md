@@ -14,27 +14,6 @@ Este projeto é um sistema de gerenciamento de usuários que utiliza PHP para op
 - **HTML/CSS**: Utilizados para a interface do usuário.
 - **Javascript**: Utilizado para a função de pesquisa em tempo real (sem recarregar a página)
 
-## Instalação
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    ```
-2. Instale as dependências do PHP:
-    ```bash
-    composer install
-    ```
-3. Configure o banco de dados MySQL:
-    - Crie um banco de dados no MySQL.
-    - Atualize as credenciais do banco de dados no arquivo `Database.php`.
-4. Execute o servidor PHP:
-    ```bash
-    php -S localhost:8000
-    ```
-5. Acesse o sistema no navegador:
-    ```
-    http://localhost:8000
-    ```
-
 ## Uso
 
 ### Cadastro de Usuários
